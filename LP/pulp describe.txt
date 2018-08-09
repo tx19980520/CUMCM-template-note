@@ -1,0 +1,14 @@
+\* Profit maximising problem *\
+Maximize
+OBJ: 30000 A + 45000 B
+Subject To
+_C1: 3 A + 4 B <= 30
+_C2: 5 A + 6 B <= 60
+_C3: 1.5 A + 3 B <= 21
+Bounds
+0 <= A
+0 <= B
+Generals
+A
+B
+End
