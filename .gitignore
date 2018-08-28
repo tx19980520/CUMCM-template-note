@@ -105,3 +105,6 @@ venv.bak/
 *.npy
 *.jpg
 *.png
+*.csv
+
+
